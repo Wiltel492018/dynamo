@@ -1,4 +1,5 @@
 # Dynamo
+WiltelGithub...no changes will be made. Typescript/Dynamo!!! I'm just trying to keep my own copy of this document for training sessions and educational purposes. For future reference and advancements.
 
 Fast dynamic method dispatch in TypeScript.  Easy to read and understand decorators-based function definitions are converted to runtime multimethods.  Avoids nasty runtime type checking and produces correctly typed methods.
 
